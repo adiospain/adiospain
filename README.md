@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://hhpluscertificateofcompletion.oopy.io/"> <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" /> </a>
+<a href="https://hhpluscertificateofcompletion.oopy.io/"> <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" width="300"/> <br>
+<img src="https://github.com/user-attachments/assets/b4b14059-d027-40c1-950d-2bff037a079b" alt="항해 플러스 수료 인증서" width="300"/> 
+
