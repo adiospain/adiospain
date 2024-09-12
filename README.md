@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://hhpluscertificateofcompletion.oopy.io/"> <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" width="300"/> <br>
-<img src="https://github.com/user-attachments/assets/b4b14059-d027-40c1-950d-2bff037a079b" alt="항해 플러스 수료 인증서" width="300"/> 
+<img src="https://github.com/user-attachments/assets/b960992c-8be0-4768-8a15-1218a8391d94" alt="항해 플러스 수료 인증서" width="300"/> 
 
